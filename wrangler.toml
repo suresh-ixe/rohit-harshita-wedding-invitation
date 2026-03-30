@@ -1,0 +1,7 @@
+# Cloudflare Pages — static wedding invite (no build step)
+# Deploy: npx wrangler pages deploy . --project-name=rohit-harshita-wedding
+# Or connect this repo in the dashboard: Build command empty, Output directory = /
+
+name = "rohit-harshita-wedding"
+compatibility_date = "2025-03-30"
+pages_build_output_dir = "."
