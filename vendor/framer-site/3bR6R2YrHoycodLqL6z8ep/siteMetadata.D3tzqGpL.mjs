@@ -1,0 +1,2 @@
+import{t as e}from"./rolldown-runtime.D32smSb_.mjs";function t(e,t){return{description:`Create a beautiful wedding invite that opens as a website. Edit anytime and share instantly on WhatsApp. Modern, simple, and made for every ceremony.`,favicon:`https://framerusercontent.com/assets/VRr5oPbK8EC2e8xlsQcVIsS47c.png`,robots:`max-image-preview:large`,socialImage:`https://framerusercontent.com/assets/7LPUQldg1w5B1Zrz0pCfh0AeQw.png`,title:`Wedding Invitation Templates – Missing Piece`}}var n=e((()=>{}));export{t as n,n as t};
+//# sourceMappingURL=siteMetadata.D3tzqGpL.mjs.map
